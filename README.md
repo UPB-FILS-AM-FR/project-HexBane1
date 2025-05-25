@@ -34,6 +34,7 @@ I was always interested in creating games, this project gave me that opportunity
 ### Libraries
 
 | Library | Description | Usage |
+|--------|--------|-------|
 |Arduino.h|Core Arduino functions and definitions|Basic hardware control|
 |LiquidCrystal.h|Controls character LCD|Used to display text on LCD screens|
 
