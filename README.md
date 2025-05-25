@@ -34,16 +34,19 @@ I was always interested in creating games, this project gave me that opportunity
 ### Libraries
 
 | Library | Description | Usage |
-|---------|-------------|-------|
+|Arduino.h|Core Arduino functions and definitions|Basic hardware control|
+|LiquidCrystal.h|Controls character LCD|Used to display text on LCD screens|
 
 ## Log
 
 ### Week 5 - 11 May
-
+Acquired some of pieces, brainstormed ideas for the final prototype of the project.
 ### Week 12 - 18 May
-Acquired all pieces necessary to build the project, finished documentation and started prototyping for the project.
+Acquired all pieces necessary to build the project, finished documentation and started prototyping for the project, finished basic code logic with button implementation.
 ### Week 19 - 25 May
-
+Finished connecting the power supply, motor driver and lcd display to the nano, implemented it into the code from before, started working on the display case for the project
 ### Week 26 - 28 May
 
 ## Reference links
+https://www.youtube.com/watch?v=E2sTbpFsvXI&ab_channel=RyanChan
+https://www.youtube.com/watch?v=r4jHMO23TxM&ab_channel=DIYUSTHAD
