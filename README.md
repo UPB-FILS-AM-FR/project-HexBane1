@@ -16,7 +16,13 @@ I was always interested in creating games, this project gave me that opportunity
 
 ### Block diagram
 
+![Block_Schematic](https://github.com/user-attachments/assets/b00a39b4-e2ff-4927-b1e3-b2d3d738a488)
+
+
 ### Schematic
+
+![image](https://github.com/user-attachments/assets/d95d7ab6-fc43-4267-8fe9-d1b2f85bae80)
+
 
 ### Components
 
@@ -30,13 +36,14 @@ I was always interested in creating games, this project gave me that opportunity
 | Buton cu Capac Rotund Roșu | Buton | [2.00 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1114-buton-cu-capac-rotund-rou.html) |
 | Buton cu Capac Rotund Albastru | Buton | [2.00 RON](https://www.optimusdigital.ro/ro/altele/1118-buton-cu-capac-rotund-albastru.html) |
 | Kit Plusivo pentru Introducere în Electronică | Rezistors, wires, breadboard etc. | [39.99 RON](www.optimusdigital.ro/ro/kituri/12026-kit-plusivo-pentru-introducere-in-electronica-0721248990075.html) |
+| Gearmotor with Wheel | Pulling Mechanism | [30.00 RON](https://www.optimusdigital.ro/ro/motoare-motoare-cu-reductor-de-25-mm/12256-motor-cu-reductor-jga25-370-6v-170-rpm.html) |
 
 ### Libraries
 
 | Library | Description | Usage |
 |--------|--------|-------|
-|Arduino.h|Core Arduino functions and definitions|Basic hardware control|
-|LiquidCrystal.h|Controls character LCD|Used to display text on LCD screens|
+|Arduino|Core Arduino functions and definitions|Basic hardware control|
+|LiquidCrystal|Controls character LCD|Used to display text on LCD screens|
 
 ## Log
 
@@ -47,7 +54,11 @@ Acquired all pieces necessary to build the project, finished documentation and s
 ### Week 19 - 25 May
 Finished connecting the power supply, motor driver and lcd display to the nano, implemented it into the code from before, started working on the display case for the project
 ### Week 26 - 28 May
+Finished case, added reset feature, faulty motor caused project to go back to the initial idea of a 2 motor functionality, refined case and finished documentation
 
 ## Reference links
 https://www.youtube.com/watch?v=E2sTbpFsvXI&ab_channel=RyanChan
 https://www.youtube.com/watch?v=r4jHMO23TxM&ab_channel=DIYUSTHAD
+
+## Project test link
+www.youtube.com/watch?v=Tg27Zz5y22Y&feature=youtu.be
