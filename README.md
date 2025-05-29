@@ -57,7 +57,7 @@ Finished connecting the power supply, motor driver and lcd display to the nano, 
 Finished case, added reset feature, faulty motor caused project to go back to the initial idea of a 2 motor functionality using wheels as spools for the ellastic band to rest on, refined case and finished documentation
 
 ## Reference links
-https://www.youtube.com/watch?v=E2sTbpFsvXI&ab_channel=RyanChan
+https://www.youtube.com/watch?v=E2sTbpFsvXI&ab_channel=RyanChan \n
 https://www.youtube.com/watch?v=r4jHMO23TxM&ab_channel=DIYUSTHAD
 
 ## Project test link
