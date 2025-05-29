@@ -2,15 +2,15 @@
 
 | | |
 |-|-|
-|`Author` | Neata Mihnea-Ioan
+|`Author` | Neata Mihnea-Ioan |
 
 ## Description
 
-A tug of war game where two players press buttons as fast as they can within timed intervals. Their button presses power motors that pull an elastic band toward their side. A central mark on the band indicates the middle of the band and the first player to pull the mark to his side wins. An LCD displays the countdown, current status, and winner.
+A tug of war game where two players press buttons as fast as they can within timed intervals. Their button presses power motors that pull an elastic band toward their side. A central mark on the band indicates the middle of the band and the first player to pull the mark to his side 5 times wins. An LCD displays the countdown, current status, and winner. Hold button at the end of the game to reset the game.
 
 ## Motivation
 
-I was always interested in creating games, this project gave me that opportunity. I also think that this project will help me improve my coding skills and also develop my problem solving skills, by resolving problems as they come up.
+I was always interested in creating games, this project gave me that opportunity. I also think that this project will help me improve my coding skills and also develop my problem solving skills, by resolving problems as they come up. Also, i haven't found any arduino tug of war games that actually use a "rope" instead of rgbs, so we can call this project an innovative one. :)
 
 ## Architecture
 
@@ -22,7 +22,7 @@ I was always interested in creating games, this project gave me that opportunity
 ### Schematic
 
 ![image](https://github.com/user-attachments/assets/d95d7ab6-fc43-4267-8fe9-d1b2f85bae80)
-
+(This is a bit messy but i couldn't find the right parts to work with in Tinkercad)
 
 ### Components
 
@@ -33,8 +33,8 @@ I was always interested in creating games, this project gave me that opportunity
 | Motor cu Reductor JGA25-370 170RPM 6V | Pulling Mechanism | [49.00 RON](https://www.optimusdigital.ro/ro/motoare-motoare-cu-reductor-de-25-mm/12256-motor-cu-reductor-jga25-370-6v-170-rpm.html) |
 | Modul cu Driver de Motoare Dual L298N Rosu | Motor Configuration | [10.99 RON](www.optimusdigital.ro/ro/drivere-de-motoare-cu-perii/145-driver-de-motoare-dual-l298n.html) |
 | Cablu Albastru USB AM - B Mini 30 cm pentru Arduino NANO | Connector for development board | [4.37 RON](https://www.optimusdigital.ro/ro/cabluri-cabluri-usb/3147-cablu-albastru-usb-am-b-mini-30-cm-pentru-arduino-nano.html) |
-| Buton cu Capac Rotund Roșu | Buton | [2.00 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1114-buton-cu-capac-rotund-rou.html) |
-| Buton cu Capac Rotund Albastru | Buton | [2.00 RON](https://www.optimusdigital.ro/ro/altele/1118-buton-cu-capac-rotund-albastru.html) |
+| Buton cu Capac Rotund Roșu | Button | [2.00 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1114-buton-cu-capac-rotund-rou.html) |
+| Buton cu Capac Rotund Albastru | Button | [2.00 RON](https://www.optimusdigital.ro/ro/altele/1118-buton-cu-capac-rotund-albastru.html) |
 | Kit Plusivo pentru Introducere în Electronică | Rezistors, wires, breadboard etc. | [39.99 RON](www.optimusdigital.ro/ro/kituri/12026-kit-plusivo-pentru-introducere-in-electronica-0721248990075.html) |
 | Gearmotor with Wheel | Pulling Mechanism | [30.00 RON](https://www.optimusdigital.ro/ro/motoare-motoare-cu-reductor-de-25-mm/12256-motor-cu-reductor-jga25-370-6v-170-rpm.html) |
 
@@ -48,13 +48,13 @@ I was always interested in creating games, this project gave me that opportunity
 ## Log
 
 ### Week 5 - 11 May
-Acquired some of pieces, brainstormed ideas for the final prototype of the project.
+Acquired some of the pieces, brainstormed ideas for the final prototype of the project.
 ### Week 12 - 18 May
 Acquired all pieces necessary to build the project, finished documentation and started prototyping for the project, finished basic code logic with button implementation.
 ### Week 19 - 25 May
 Finished connecting the power supply, motor driver and lcd display to the nano, implemented it into the code from before, started working on the display case for the project
 ### Week 26 - 28 May
-Finished case, added reset feature, faulty motor caused project to go back to the initial idea of a 2 motor functionality, refined case and finished documentation
+Finished case, added reset feature, faulty motor caused project to go back to the initial idea of a 2 motor functionality using wheels as spools for the ellastic band to rest on, refined case and finished documentation
 
 ## Reference links
 https://www.youtube.com/watch?v=E2sTbpFsvXI&ab_channel=RyanChan
